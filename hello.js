@@ -4,8 +4,14 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello World. Don't remove the parentheses. Group operator go boom.");
+console.log("We found 2 million errors! Congrats!");
+console.log("No semicolons just look messy.")
+console.log("I definitely followed these intructions in order"); console.log("Coding and ADHD is a Percy jackson moment, it's either your greatest power or your greatest enemy!");
 
+var todayIsAGoodDay = 'Today is a Good day!'
+
+console.log(`What is today? ${todayIsAGoodDay}`);
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
